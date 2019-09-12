@@ -1,4 +1,6 @@
-# Amazon-Fine-Food-Reviews
+# FOUNDATIONS OF MACHINE LEARNING:
+   Implemented various models on this dataset. From TSNE visualization to Deep Learning models like LSTM.
+## Amazon-Fine-Food-Reviews
 
 
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews <br>
